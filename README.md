@@ -30,13 +30,14 @@ This project is a Python-based Bank Account System that simulates basic banking 
 ### How to Run
 1. Clone the repository:
    ```bash
-   git clone
-2. Make sure Python (version 3.x) is installed on your system.
-3. Open a terminal and navigate to the folder containing the script:
-4. Run the script using:
+   git clone https://github.com/DvirUliel/Python-Bank-Acount-System.git
+2. Navigate to the project directory:
+   ```bash
+   cd Python-Bank-Acount-System
+3. Run the script using:
    ```bash
    python Project.py
-5. Follow the on-screen prompts to:
+4. Follow the on-screen prompts to:
    - Enter an initial balance or accept the default.
    - Perform deposit or withdrawal actions.
-   - Exit by typing "stop". 
+   - Exit by typing "stop".
